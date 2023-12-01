@@ -1,12 +1,12 @@
-<h1 align="center">
+<h1>
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Marwanhoo+%F0%9F%98%8E;Mid+Senior+Flutter+Developer+" alt="Typing SVG" /></a>
 </h1>
 
 
 
-# Hi there, I'm Muhammad Anwar Marwan 👋❤️
+# Muhammad Anwar Marwan 👋❤️
 
-- junior Flutter Developer
+- Mid Senior Flutter Developer
 <!--
 **Marwanhoo/Marwanhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
