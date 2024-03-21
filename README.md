@@ -4,7 +4,7 @@
 
 
 
-# Muhammad Anwar Marwan 👋❤️
+# Muhammad Anwar Marwan 👋
 
 - Mid Senior Flutter Developer
 <!--
