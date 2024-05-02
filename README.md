@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Samples from my projects </h2>
+<h1> Samples from my projects </h1>
 
 ### Trato | تراتو
 تطبيق تراتو. دليل ذكي ومجاني للخصومات الفورية.<br>
