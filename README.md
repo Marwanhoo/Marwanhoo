@@ -28,6 +28,18 @@ Hello My New Baby 😂❤
 
 Proud of My Achievement ! 💪 فخور بإنجازي
 
+Trato application. A smart and free guide to instant discounts.
+
+Trato is an app that provides amazing offers and instant discounts throughout the year, as well as a free smart guide to get anywhere easily.
+
+This is the first version of the application, and we are working hard to develop it and add more great features in the future
+
+Discounts on your favorite products from the largest stores and brands in Egypt, exclusive offers not available anywhere else, valuable gifts when purchasing through the application, a free smart guide to get anywhere easily, complete information about shopping centers, supermarkets, schools, Clubs, and many more,
+
+To enjoy more benefits, you can subscribe to the “Trato Premium” service for an annual subscription fee
+
+Amazing, unparalleled offers, instant discounts ⚡ on all your purchases, electronic vouchers for use in your favorite stores..
+
 تطبيق تراتو. دليل ذكي ومجاني للخصومات الفورية.<br>
 بعد شهرين من العمل الدؤوب ، اقدم لكم تطبيق تراتو في نسخته الأولي 
 
