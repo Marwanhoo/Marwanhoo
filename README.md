@@ -39,20 +39,26 @@ Here are some ideas to get you started:
 
 <a href="https://www.facebook.com/marwanhoo" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marwanhoo" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
    
-   
-<!-- <a href="https://www.youtube.com/AbdullahMansourAli" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a><p> -->
+<h3 align="left">Languages and Tools:</h3>
+<p>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a> <!-- html -->
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/></a>  <!-- css -->
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  width="40" height="40"/></a> <!-- c -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <!-- python -->
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a> <!-- java -->  
+<a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>  <!-- kotlin -->
+<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"  width="40" height="40"/></a> <!-- android -->
+<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"  width="40" height="40"/></a>  <!-- dart -->
+<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"  width="40" height="40"/></a>  <!-- flutter -->
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="40" height="40"/></a>  <!-- figma -->
+<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> <!-- postman -->
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="40" height="40"/></a>  <!-- git -->
+<a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"  width="40" height="40"/></a>  <!-- GraphQl -->
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a> <!-- linux -->
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/> </a> <!-- swift -->
+<p>
 
-<!--  <a href="https://www.instagram.com/abdullahmanss" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-cd486b.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
-
-<!-- - whatsApp for bussines : http://Wa.me/201028205960
-- business email : abdullah@mansouracademy.net
-- personal email : abdullah.mansour97@gmail.com
-- facebook : https://www.facebook.com/abdullahmanss
-- linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
-- instagram : https://www.instagram.com/abdullahmanss
-- youtube channel : https://www.youtube.com/AbdullahMansourAli -->
 <hr>
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Samples From My Projects</b>
 <br>
@@ -93,8 +99,11 @@ Amazing, unparalleled offers, instant discounts ⚡ on all your purchases, elect
 عروض مذهلة لا مثيل لها
 خصومات فورية ⚡ على جميع مشترياتك
 قسائم شراء إلكترونية للاستخدام في متاجرك المفضلة..
+
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.fusion.codin.trato" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/trato/id1457897864" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ <a href="https://play.google.com/store/apps/details?id=com.fusion.codin.trato" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> 
+ <a href="https://apps.apple.com/eg/app/trato/id1457897864" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a> 
+<p>
 
 <hr>
 
@@ -127,8 +136,9 @@ We are here to provide the best products with a flexible and convenient shopping
 
 
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.fusion.codin.trato" target="_blank"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> 
- <a href="https://apps.apple.com/eg/app/trato/id1457897864" target="_blank"><img alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a> 
+ <a href="https://play.google.com/store/apps/details?id=com.art4muslim.maq" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> 
+ <a href="https://apps.apple.com/us/app/%D9%85%D9%82%D8%A7%D8%B6%D9%8A%D9%86%D8%A7/id6741382882" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a>
+ <a href="https://maqadhina.com/" target="_blank"><img src="https://maqadhina.com/uploads/settings/Ko3JAmuSJ9gpOYKDqkYddqWtIFwWPbFHR6DBi7AA.jpg" width="50" height="50"/></a>
 <p>
 
 
@@ -142,10 +152,12 @@ Whether you are a seller or a buyer, the application provides the best experienc
 مشروع مطلوبك هو سوق إلكتروني مميز يعرض كل السلع الجديدة والمستعملة داخل الرياض  🇸🇦 . 
 عبر أقسام السوق المختلفة 🛍️. 
 سواء كنت بائعًا أو مشتريًا، يوفر التطبيق أفضل تجربة لك 👌.
+
+
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.art4muslim.matlobk" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-   <a href="https://apps.apple.com/us/app/%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%83/id6608978782" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-   <p>
+ <a href="https://play.google.com/store/apps/details?id=com.art4muslim.matlobk" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> 
+ <a href="https://apps.apple.com/us/app/%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%83/id6608978782" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a>
+<p>
 
 <hr>
 
@@ -154,10 +166,11 @@ Washingo is an app that provides you with the fastest and easiest way to order c
 
 واشنجو هو تطبيق يوفر لك أسرع وأسهل طريقة لطلب خدمات العناية بالسيارات في المكان والوقت المناسبين لك.
 يمكنك اآلن توفير الوقت والجهد بعي ًدا عن الذهاب واالنتظار في المغاسل لغسل سيارتك مع تطبيق واشنجو!
+
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.art4muslim.washingo" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-   <a href="https://apps.apple.com/us/app/washngo-%D9%88%D8%A7%D8%B4-%D8%A5%D9%86-%D9%82%D9%88/id6455939159" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-   <p>
+ <a href="https://play.google.com/store/apps/details?id=com.art4muslim.washingo" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> 
+ <a href="https://apps.apple.com/us/app/washngo-%D9%88%D8%A7%D8%B4-%D8%A5%D9%86-%D9%82%D9%88/id6455939159" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a>
+<p>
 
 <hr>
 
@@ -174,10 +187,11 @@ the teacher and the student, enabling everyone to provide and receive educationa
 لقد كان لي الشرف ببرمجة هذا التطبيق لخدمة القطاع التعليمي في المملكة العربية السعودية، وتحديدًا في الرياض 🇸🇦 .
 التطبيق موجه لإدارة المدارس ويقدم حلولًا متكاملة لتلبية احتياجات المديرين، الوكلاء، المعلمين، والطلاب. من خلال نظام حصري التعليمي، نسعى لتوفير تجربة تعليمية مميزة وسهلة الاستخدام مع دعم فني مستمر، ليكون التطبيق حلقة الوصل بين المعلم والطالب، مما يمكن الجميع من تقديم واستقبال الخدمات التعليمية بسهولة ومن أي مكان.
 هذا هو تطبيقي الأول داخل المملكة وأتطلع لتقديم المزيد من الإبداعات التي تساهم في تطوير قطاع التعليم في السعودية .
+
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.hasry.tkwin" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-   <a href="" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-   <p>
+ <a href="https://play.google.com/store/apps/details?id=com.hasry.tkwin" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> 
+ <a href="" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a>
+<p>
 
 <hr>
 
@@ -187,10 +201,11 @@ A women's sports club that meets all your sports needs under one roof with multi
 
 نادي رياضي نسائي يلبي جميع احتياجاتكم الرياضيه تحت سقف واحد باجهزة متعددة وعدد من الكالسات المتنوعه بطاقم
 متكامل من المدربات والإداريات.
+
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.gymmawy.vit" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-   <a href="https://apps.apple.com/sa/app/vit-fitness/id1645092433" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-   <p>
+ <a href="https://play.google.com/store/apps/details?id=com.gymmawy.vit" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> 
+ <a href="https://apps.apple.com/sa/app/vit-fitness/id1645092433" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a>
+<p>
 
 <hr>
 
@@ -236,10 +251,15 @@ Features and strengths of the application
 تواصل مع المعلنين بشكل مباشر بدون وسيط
 
 قائمة بافضل المكاتب والشركات العقارية في الكويت
+
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.q8aqar.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
-   <a href="https://apps.apple.com/us/app/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/id6450605820" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-   <p>
+ <a href="https://play.google.com/store/apps/details?id=com.q8aqar.com" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> 
+ <a href="https://apps.apple.com/us/app/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/id6450605820" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a>
+ <a href="https://q8aqar.com/" target="_blank"><img src="https://q8aqar.com/img/noavatar.png" width="50" height="50"/></a>
+<p>
 
 <hr>
+
+
+
 
