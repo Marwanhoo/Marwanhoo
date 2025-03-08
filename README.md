@@ -102,23 +102,32 @@ Amazing, unparalleled offers, instant discounts ⚡ on all your purchases, elect
 "Our Muqaddina app is your perfect destination for all your daily needs, offering you a wide range of products including groceries, canned and fresh foods, bakery items, organic products and more.
 
 We believe in providing an easy and smooth shopping experience in four different languages: Arabic 🇸🇦, English 🇬🇧, Urdu 🇵🇰 and Indonesian 🇮🇩,
+
 That's why we provide you with two distinctive features:
-The ability to save the basket: You can add everything you need to your basket, and you can save more than one basket at the same time and return to it later at any time. Whether you are busy or want to check the products, your baskets will be stored securely so you can continue shopping at any time that suits you.
+
+The ability to save the basket: You can add everything you need to your basket, and you can save more than one basket at the same time and return to it later at any time. 
+
+Whether you are busy or want to check the products, your baskets will be stored safely so you can continue shopping at any time that suits you.
+
 Send the shopping basket to someone else: Do you want to share your shopping list with someone else? Simply, you can send your shopping basket through the app to someone else to facilitate the purchase process.
-We are here to provide the best products with a flexible and convenient shopping experience, anytime and anywhere)."
+
+We are here to provide the best products with a flexible and convenient shopping experience, anytime and anywhere."
 
 "تطبيقنا مقاضينا هو وجهتك المثالية لتلبية كافة احتياجاتك اليومية، حيث نقدم لك مجموعة واسعة من المنتجات التي تشمل المواد الغذائية والأطعمة المعلبة والطازجة والمخبوزات والمنتجات العضوية وغيرها من المنتجات.
-نؤمن بتوفير تجربة تسوق سهلة وسلسة بأربع لغات مختلفة
-اللغة العربية 🇸🇦والأنجليزية 🇬🇧والأوردية🇵🇰 والأندونيسية🇮🇩،
+
+نؤمن بتوفير تجربة تسوق سهلة وسلسة بأربع لغات مختلفة اللغة العربية 🇸🇦والأنجليزية 🇬🇧والأوردية🇵🇰 والأندونيسية🇮🇩،
 ولهذا السبب نوفر لك ميزتين مميزتين:
-إمكانية حفظ السلة: يمكنك إضافة كل ما تحتاجه إلى سلتك، ويمكنك حفظ أكثر من سلة في نفس الوقت والعودة إليها لاحقًا في أي وقت. سواء كنت مشغولاً أو تريد التحقق من المنتجات، سيتم تخزين سلالك بشكل آمن حتى تتمكن من مواصلة التسوق في أي وقت يناسبك.
+
+إمكانية حفظ السلة: يمكنك إضافة كل ما تحتاجه إلى سلتك، ويمكنك حفظ أكثر من سلة في نفس الوقت والعودة إليها لاحقًا في أي وقت. سواء كنت مشغولاً أو تريد التحقق من المنتجات، سيتم تخزين سلاتك بشكل آمن حتى تتمكن من مواصلة التسوق في أي وقت يناسبك.
+
 إرسال سلة التسوق لشخص آخر: هل تريد مشاركة قائمة التسوق الخاصة بك مع شخص آخر؟ ببساطة، يمكنك إرسال سلة التسوق الخاصة بك من خلال التطبيق إلى شخص آخر لتسهيل عملية الشراء.
-نحن هنا لتقديم أفضل المنتجات مع تجربة تسوق مرنة ومريحة، في أي وقت وفي أي مكان)."
+
+نحن هنا لتقديم أفضل المنتجات مع تجربة تسوق مرنة ومريحة، في أي وقت وفي أي مكان."
 
 
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.fusion.codin.trato" target="_blank"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> 
- <a href="https://apps.apple.com/eg/app/trato/id1457897864" target="_blank" style="margin-left: 20px;"><img alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a> 
+ <a href="https://apps.apple.com/eg/app/trato/id1457897864" target="_blank"><img alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a> 
 <p>
 
 
