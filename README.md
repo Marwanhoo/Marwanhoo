@@ -117,7 +117,9 @@ We are here to provide the best products with a flexible and convenient shopping
 
 
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.fusion.codin.trato" target="_blank"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> <a href="https://apps.apple.com/eg/app/trato/id1457897864" target="_blank"><img alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a><p>
+ <a href="https://play.google.com/store/apps/details?id=com.fusion.codin.trato" target="_blank"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> 
+ <a href="https://apps.apple.com/eg/app/trato/id1457897864" target="_blank" style="margin-left: 20px;"><img alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a> 
+<p>
 
 
 <hr>
