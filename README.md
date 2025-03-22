@@ -146,7 +146,7 @@ We are here to provide the best products with a flexible and convenient shopping
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.art4muslim.maq" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> 
  <a href="https://apps.apple.com/us/app/%D9%85%D9%82%D8%A7%D8%B6%D9%8A%D9%86%D8%A7/id6741382882" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/></a>
- <a href="https://maqadhina.com/" target="_blank"><img src="https://maqadhina.com/uploads/settings/Ko3JAmuSJ9gpOYKDqkYddqWtIFwWPbFHR6DBi7AA.jpg" width="50" height="50"/></a>
+ <a href="https://maqadhina.com/" target="_blank"><img src="https://maqadhina.com/web/images/user.svg" width="50" height="50"/></a>
 <p>
 
 
