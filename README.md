@@ -17,7 +17,7 @@
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
 <!-- business email -->
 
-- Professional Personal Email : Muhammad@marwanhoo.com
+<!-- - Professional Personal Email : Muhammad@marwanhoo.com
 
 - Personal Email : Muh.Marwanhoo@gmail.com
 
