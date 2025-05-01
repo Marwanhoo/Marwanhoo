@@ -17,7 +17,7 @@
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
 <!-- business email -->
 
-<!-- - Professional Personal Email : Muhammad@marwanhoo.com
+- Professional Personal Email : Muhammad@marwanhoo.com
 
 - Personal Email : Muh.Marwanhoo@gmail.com
 
@@ -27,7 +27,7 @@
 
 
 <p align="left">
-<!-- 
+
 <a href="https://linkedin.com/in/marwanhoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwanhoo" height="30" width="40" /></a>
 <a href="https://fb.com/marwanhoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marwanhoo" height="30" width="40" /></a>
 <a href="https://twitter.com/devmarwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devmarwan" height="30" width="40" /></a>
