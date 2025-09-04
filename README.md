@@ -271,6 +271,44 @@ Features and strengths of the application
 
 <hr>
 
+### Savior - The Ultimate Rescuer | المنقذ الشامل
+
+💻 We are a software team who turned an idea into a real product in Riyadh, Saudi Arabia 🇸🇦
+This project was a full freelance collaboration — we took it from scratch and delivered it end-to-end ✨
+Honestly, they’re some of the best software engineers I’ve ever worked with 👨‍💻
+
+Now let’s get to the solution:
+Are you looking for an easy and fast way to find the best technicians for different maintenance services? 🔍
+The answer is: “Savior” – your ultimate destination ✨
+
+We connect you directly with top specialists in:
+🔧 Plumbing
+⚡ Electricity
+🪚 Carpentry
+❄️ Air Conditioning
+…and much more!
+
+The project is basically one application with two versions in one place:
+👤 Customer side – submits a request and chooses service details.
+🛠️ Technician side – receives requests and sends price offers.
+
+This makes communication between both sides faster and easier than ever.
+
+How it works 👇
+🔧⚡ Whether you need a plumber, electrician, carpenter, or AC technician, the app connects you directly with the best technicians in your city.
+📲 Just select the right category, describe your request, add location & photos if needed, and choose the date & time.
+⏱️ Your request will be sent to all technicians in that field and city, and they start sending you offers.
+💳 You can pay either the full amount (service + tax) or a deposit (e.g., 20%).
+🛠️ The technician arrives at the scheduled time, and once the job is done, the customer confirms by sharing the service code.
+⭐ Finally, the customer can rate both the service and the technician.
+
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.art4muslim.savior" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="80"/></a> 
+ <a href="https://apps.apple.com/us/app/%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B0-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84/id6749821522" target="_blank"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="170" height="80"/>
+<p>
+
+<hr>
+
 
 
 
