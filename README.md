@@ -1,4 +1,8 @@
 <div align="center">
+    <img src="https://avatars.githubusercontent.com/u/125823028?v=4" width="150" height="150" style="border-radius: 50%;" alt="Marwanhoo" />
+</div>
+
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marwanhoo!+😎" />
 </div>
 
@@ -31,8 +35,8 @@
 </p>
 
 <p align="center">
-  📧 <b>Personal:</b> Muh.Marwanhoo@gmail.com &nbsp;·&nbsp;
-  💼 <b>Business:</b> Muhammad@marwanhoo.com &nbsp;·&nbsp;
+  📧 <b>Personal:</b> Muh.Marwanhoo@gmail.com<br>
+  💼 <b>Business:</b> Muhammad@marwanhoo.com<br>
   🏢 <b>Work:</b> mohamed.anwar@teleoceans.com
 </p>
 
@@ -78,8 +82,8 @@
 > - 🛠️ **Technician side** – receives requests and sends price offers
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.art4muslim.savior" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>&nbsp;
-  <a href="https://apps.apple.com/us/app/%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B0-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84/id6749821522" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.art4muslim.savior" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play"/></a>&nbsp;
+  <a href="https://apps.apple.com/us/app/%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B0-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84/id6749821522" target="_blank"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/></a>
 </p>
 
 </details>
@@ -100,8 +104,8 @@
 > - ⭐ **Trato Premium** for an enhanced experience
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.fusion.codin.trato" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>&nbsp;
-  <a href="https://apps.apple.com/eg/app/trato/id1457897864" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fusion.codin.trato" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play"/></a>&nbsp;
+  <a href="https://apps.apple.com/eg/app/trato/id1457897864" target="_blank"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/></a>
 </p>
 
 </details>
@@ -120,9 +124,9 @@
 > - 📤 **Share baskets** — send your shopping list to someone else
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.art4muslim.maq" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>&nbsp;
-  <a href="https://apps.apple.com/us/app/%D9%85%D9%82%D8%A7%D8%B6%D9%8A%D9%86%D8%A7/id6741382882" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>&nbsp;
-  <a href="https://maqadhina.com/" target="_blank"><img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.art4muslim.maq" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play"/></a>&nbsp;
+  <a href="https://apps.apple.com/us/app/%D9%85%D9%82%D8%A7%D8%B6%D9%8A%D9%86%D8%A7/id6741382882" target="_blank"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/></a>&nbsp;
+  <a href="https://maqadhina.com/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
 </details>
@@ -138,8 +142,8 @@
 > Whether you are a seller or buyer, the app provides the best experience for you 👌
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.art4muslim.matlobk" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>&nbsp;
-  <a href="https://apps.apple.com/us/app/%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%83/id6608978782" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.art4muslim.matlobk" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play"/></a>&nbsp;
+  <a href="https://apps.apple.com/us/app/%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%83/id6608978782" target="_blank"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/></a>
 </p>
 
 </details>
@@ -155,8 +159,8 @@
 > Save time — no more going and waiting at car washes! 🚿
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.art4muslim.washingo" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>&nbsp;
-  <a href="https://apps.apple.com/us/app/washngo-%D9%88%D8%A7%D8%B4-%D8%A5%D9%86-%D9%82%D9%88/id6455939159" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.art4muslim.washingo" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play"/></a>&nbsp;
+  <a href="https://apps.apple.com/us/app/washngo-%D9%88%D8%A7%D8%B4-%D8%A5%D9%86-%D9%82%D9%88/id6455939159" target="_blank"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/></a>
 </p>
 
 </details>
@@ -172,8 +176,8 @@
 > Integrated solutions for managers, agents, teachers, and students — connecting everyone to provide and receive educational services easily and from anywhere.
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.hasry.tkwin" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>&nbsp;
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.hasry.tkwin" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play"/></a>&nbsp;
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/></a>
 </p>
 
 </details>
@@ -188,8 +192,8 @@
 > A women's sports club meeting all your fitness needs under one roof — multiple devices, diverse classes, and an integrated staff of female trainers and administrators.
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.gymmawy.vit" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>&nbsp;
-  <a href="https://apps.apple.com/sa/app/vit-fitness/id1645092433" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.gymmawy.vit" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play"/></a>&nbsp;
+  <a href="https://apps.apple.com/sa/app/vit-fitness/id1645092433" target="_blank"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/></a>
 </p>
 
 </details>
@@ -209,9 +213,9 @@
 > - 🏢 Directory of the best real estate offices in Kuwait
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.q8aqar.com" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>&nbsp;
-  <a href="https://apps.apple.com/us/app/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/id6450605820" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>&nbsp;
-  <a href="https://q8aqar.com/" target="_blank"><img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.q8aqar.com" target="_blank"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play"/></a>&nbsp;
+  <a href="https://apps.apple.com/us/app/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/id6450605820" target="_blank"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/></a>&nbsp;
+  <a href="https://q8aqar.com/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
 </details>
