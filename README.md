@@ -1,16 +1,12 @@
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/125823028?v=4" width="150" height="150" style="border-radius: 50%;" alt="Marwanhoo" />
-</div>
-
-<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marwanhoo!+😎" />
 </div>
 
 <h1 align="center">Muhammad Anwar Marwan</h1>
 
 <p align="center">
-  <b>Software Development Engineer</b> · <b>Senior Flutter Developer</b><br>
-  Android · iOS · Web
+  <b>Senior Mobile Software Engineer</b><br>
+  Flutter • Android • iOS 👨‍💻
 </p>
 
 <p align="center">
@@ -69,7 +65,7 @@
 <!-- ──────────────── Savior ──────────────── -->
 
 <details open>
-<summary><h3>🛠️ Savior — The Ultimate Rescuer</h3></summary>
+<summary><h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/75/89/4375895e-2dc4-70ce-3640-fc7d5ca1d139/Placeholder.mill/400x400bb-75.webp" width="28" style="border-radius: 6px;" /> Savior — The Ultimate Rescuer</h3></summary>
 
 > 💻 We are a software team who turned an idea into a real product in Riyadh, Saudi Arabia 🇸🇦  
 > This project was a full freelance collaboration — we took it from scratch and delivered it end-to-end ✨
@@ -93,7 +89,7 @@
 <!-- ──────────────── Trato ──────────────── -->
 
 <details open>
-<summary><h3>🏷️ Trato</h3></summary>
+<summary><h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/31/71/d03171e0-ef83-4f3e-1d71-c2a34bce8632/Placeholder.mill/400x400bb-75.webp" width="28" style="border-radius: 6px;" /> Trato</h3></summary>
 
 > A smart and free guide to instant discounts ⚡  
 > Trato provides amazing offers and instant discounts throughout the year, plus a free smart guide to get anywhere easily.
@@ -115,7 +111,7 @@
 <!-- ──────────────── Maqadhina ──────────────── -->
 
 <details open>
-<summary><h3>🛒 Maqadhina</h3></summary>
+<summary><h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/21/09/6a210994-582f-0c34-0080-13d41a3b67a4/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/400x400ia-75.webp" width="28" style="border-radius: 6px;" /> Maqadhina</h3></summary>
 
 > Your perfect destination for all daily needs — groceries, fresh foods, bakery items, organic products and more.
 >
@@ -136,7 +132,7 @@
 <!-- ──────────────── Matlobak ──────────────── -->
 
 <details open>
-<summary><h3>🏪 Matlobak</h3></summary>
+<summary><h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/94/63/19946399-b483-0a1d-29a4-66c2d251878a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/400x400ia-75.webp" width="28" style="border-radius: 6px;" /> Matlobak</h3></summary>
 
 > A unique online marketplace displaying all new and used goods in Riyadh 🇸🇦  
 > Whether you are a seller or buyer, the app provides the best experience for you 👌
@@ -153,7 +149,7 @@
 <!-- ──────────────── Washingo ──────────────── -->
 
 <details open>
-<summary><h3>🚗 Washingo</h3></summary>
+<summary><h3><img src="https://avatars.githubusercontent.com/u/125823028?v=4" width="28" style="border-radius: 6px;" /> Washingo</h3></summary>
 
 > The fastest and easiest way to order car care services at the place and time that suits you.  
 > Save time — no more going and waiting at car washes! 🚿
@@ -170,7 +166,7 @@
 <!-- ──────────────── Hasry ──────────────── -->
 
 <details open>
-<summary><h3>📚 Hasry</h3></summary>
+<summary><h3><img src="https://avatars.githubusercontent.com/u/125823028?v=4" width="28" style="border-radius: 6px;" /> Hasry</h3></summary>
 
 > Serving the educational sector in Riyadh, Saudi Arabia 🇸🇦  
 > Integrated solutions for managers, agents, teachers, and students — connecting everyone to provide and receive educational services easily and from anywhere.
@@ -187,7 +183,7 @@
 <!-- ──────────────── VIT Club ──────────────── -->
 
 <details open>
-<summary><h3>💪 VIT Club — GYMMAWY</h3></summary>
+<summary><h3><img src="https://avatars.githubusercontent.com/u/125823028?v=4" width="28" style="border-radius: 6px;" /> VIT Club — GYMMAWY</h3></summary>
 
 > A women's sports club meeting all your fitness needs under one roof — multiple devices, diverse classes, and an integrated staff of female trainers and administrators.
 
@@ -203,7 +199,7 @@
 <!-- ──────────────── Kuwait Real Estate ──────────────── -->
 
 <details open>
-<summary><h3>🏠 Kuwait Real Estate</h3></summary>
+<summary><h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/5a/10/305a103b-2b6a-b713-a9a7-11274c9c7853/Placeholder.mill/400x400bb-75.webp" width="28" style="border-radius: 6px;" /> Kuwait Real Estate</h3></summary>
 
 > The only specialized real estate guide in Kuwait — **Q8AQAR.COM**  
 > Hundreds of real estate ads added daily (sale, rent or exchange) by licensed offices and companies.
