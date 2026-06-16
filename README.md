@@ -62,6 +62,35 @@
 
 <br>
 
+<!-- ──────────────── LocallyEG ──────────────── -->
+
+<details open>
+<summary><h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/65/ed/6365ed98-17d9-f212-661a-63c6c7134ab2/Placeholder.mill/400x400bb-75.webp" width="28" style="border-radius: 6px;" /> LocallyEG &nbsp;<img src="https://img.shields.io/badge/🔥_+50K_Downloads-8B5CF6?style=flat-square&logoColor=white" alt="+50K Downloads" /></h3></summary>
+
+> 🛒 Your trusted online shopping destination for Egyptian Local Brands.  
+> Shop the best local clothing brands in Egypt — men's & women's t-shirts, pants, bags, tops, cosmetics, and more! All designed by Egyptian designers 🇪🇬
+>
+> **My Role & Engineering Approach:**  
+> As the project manager and lead developer, I took full responsibility for the technical handover of this live application. The initial challenge was a legacy codebase with severe performance issues. I completely refactored the application by applying **Clean Architecture**, separating logic into distinct layers — making the app much faster, easier to maintain, and highly scalable.
+>
+> I used **Firebase App Distribution** for efficient test sharing, **Sentry** for real-time error tracking & crash reporting, and **Firebase Analytics** to monitor user engagement and app health in production.
+>
+> **Key Features Developed:**
+> - 🤖 **AI "Try Before You Buy"** — Built an interactive virtual fitting room. Users pick their photo, and the AI shows them exactly how a product looks on them.
+> - 🎬 **Shoppable Reels** — Developed a video feed feature similar to reels. The exact product featured in the video is displayed at the bottom for quick access and purchasing.
+> - 💳 **Secure Payments** — Integrated the Paymob payment gateway for seamless and secure transactions.
+> - 📦 **Real-Time Order Tracking** — Dynamic tracking system (Processing → Out for Delivery → Delivered), fully integrated with the admin dashboard.
+
+<p>
+  <a href="https://apps.apple.com/us/app/locallyeg/id6743131334" target="_blank"><img src="https://img.shields.io/badge/Apple_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple App Store"/></a>&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.locallyeg" target="_blank"><img src="https://img.shields.io/badge/Google_Play_Store-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play Store"/></a>&nbsp;
+  <a href="https://locallyeg.com/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+</p>
+
+</details>
+
+---
+
 <!-- ──────────────── Savior ──────────────── -->
 
 <details open>
