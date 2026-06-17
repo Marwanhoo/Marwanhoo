@@ -127,6 +127,33 @@
 </details>
 
 ---
+<!-- ──────────────── Namaa ──────────────── -->
+
+<details open>
+<summary><h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/cc/ab/78ccab89-2694-bc64-3aa7-cc4c6ad6cb49/Placeholder.mill/400x400bb-75.webp" width="28" style="border-radius: 6px;" /> Namaa &nbsp;<img src="https://img.shields.io/badge/🔥_+1M_Downloads-10B981?style=flat-square&logoColor=white" alt="+1M Downloads" /></h3></summary>
+
+> 🏛️ The official application for the Saudi Ministry of Environment, Water and Agriculture 🇸🇦  
+> Includes services such as organic products and inputs, events, agricultural products, water, agriculture, and livestock reports, scheduling appointments to visit the ministry headquarters and its branches, and much more. It also provides a service directory for seven sectors: water, agriculture, livestock, environment, fisheries, land and surveying, and general services for individuals, businesses, government agencies, visitors to the Kingdom, and volunteer organizations.
+>
+> **My Role & Engineering Approach:**  
+> Working on "Naama," the official application for the Saudi Ministry of Environment, Water and Agriculture, was a significant milestone that required strictly adhering to government-level security, performance, and scalability standards. With over 1 million active downloads, my role as a Senior Flutter Developer involved writing highly optimized, bug-free code that could handle massive daily traffic and complex data rendering without compromising the user experience.
+>
+> **Key Features & Technical Highlights:**
+> - 🏛️ **Clean Architecture & Scalability** — Architected and maintained the application using Clean Architecture principles, ensuring a decoupled and testable codebase. Utilized Bloc for predictable and highly efficient state management to handle complex data flows smoothly.
+> - 📂 **Massive Service Directory** — Integrated and managed a complex, multi-layered service directory covering 7 critical national sectors: water, agriculture, livestock, environment, fisheries, land and surveying, and general services.
+> - 👥 **Dynamic Multi-Role System** — Handled the business logic and UI adaptations required to serve diverse user categories, providing customized experiences for individuals, commercial entities, government agencies, and visitors.
+> - 📅 **Advanced Booking & Reporting** — Developed robust features for scheduling official appointments at ministry branches and implemented interactive forms for submitting agricultural and livestock reports.
+> - ⚡ **Performance Optimization** — Ensured the app remained highly responsive despite the enormous amount of data being fetched and rendered from the ministry's backend, maintaining smooth scrolling and quick transitions.
+
+<p>
+  <a href="https://apps.apple.com/sa/app/%D9%86%D9%85%D8%A7/id1403130251" target="_blank"><img src="https://img.shields.io/badge/Apple_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple App Store"/></a>&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.mewa.mowecitizens" target="_blank"><img src="https://img.shields.io/badge/Google_Play_Store-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play Store"/></a>&nbsp;
+  <a href="https://naama.sa/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+</p>
+
+</details>
+
+---
 
 <!-- ──────────────── Savior ──────────────── -->
 
