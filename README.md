@@ -90,6 +90,40 @@
 </details>
 
 ---
+<!-- ──────────────── Mohameek ──────────────── -->
+
+<details open>
+<summary><h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/33/19/4b331906-5194-8361-1e7e-b1ba8bb366fd/Placeholder.mill/400x400bb-75.webp" width="28" style="border-radius: 6px;" /> Mohameek</h3></summary>
+
+> ⚖️ Legal help in Egypt, right in your pocket.  
+> Mohameek connects you with verified Egyptian lawyers for fast, reliable legal consultations — whether you need quick advice or ongoing support. Built for Egypt, in Arabic, and designed to make legal help simple for everyone 🇪🇬
+>
+> **My Role & Cross-Functional Leadership:**  
+> Acting as the Technical Lead & End-to-End Owner, I took full responsibility for turning the project's vision into a market-ready reality. I went beyond coding by deeply involving myself in the core business logic, collaborating directly with the UI/UX design team, and coordinating seamlessly with both the Backend and Web (Frontend) teams. My primary goal was to bridge the gap between complex business requirements and technical execution, ensuring a cohesive and flawless product delivery.
+>
+> The core challenge was to build a highly secure, stable, and real-time communication platform that completely digitalizes the traditional lawyer-client meeting. I focused heavily on system stability, ensuring edge cases like network disconnections, app versioning, and system maintenance were handled gracefully — all while being perfectly synced with a massive backend infrastructure.
+>
+> **Key Features & Technical Highlights:**
+> - 🎯 **End-to-End Product Delivery** — Steered the product lifecycle from initial business analysis and design architecture to cross-team coordination (Backend/Web) and final deployment.
+> - 🤖 **AI-Powered Legal Matching** — Developed a smart routing feature where users describe their legal issues, and the system intelligently matches them with the appropriate legal expert based on specialty and degree.
+> - 🎥 **Virtual Consultations** — Integrated the Vconnct SDK to enable high-quality video, audio, and text chat consultations directly within the app, complete with secure document sharing.
+> - 📅 **Advanced Scheduling & Payments** — Created a comprehensive consultation booking system (15 to 60 minutes), fully integrated with the Fawry payment gateway.
+> - 📊 **Full Dashboard Synchronization** — Linked the app seamlessly with a centralized management dashboard handling a dynamic Fee Engine, custom CMS, and real-time monitoring of revenues, refunds, verifications, and app configurations.
+> - 🛡️ **Authentication & User Management** — Implemented seamless social logins (Apple & Google), role-based access, and complete account management including secure account deletion.
+> - ⚙️ **Clean Architecture & Robustness** — Architected the entire codebase using Clean Architecture and Bloc for highly scalable state management. Built with Dark Mode, Multi-language support (Arabic, English, French), Offline-first UI, Maintenance Mode, and Force Update triggers.
+
+<p>
+  <a href="https://apps.apple.com/us/app/mohameek/id6757976609" target="_blank"><img src="https://img.shields.io/badge/Apple_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple App Store"/></a>&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.teleoceans.mohameek" target="_blank"><img src="https://img.shields.io/badge/Google_Play_Store-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play Store"/></a>&nbsp;
+  <a href="https://www.mohameek.com/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>&nbsp;
+  <a href="https://geleh-eg.com/about-ar.html" target="_blank"><img src="https://img.shields.io/badge/Web_(Geleh)-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Geleh Website"/></a>&nbsp;
+  <a href="https://mohameek-dashboard.teleoceans-hostings.cloud/" target="_blank"><img src="https://img.shields.io/badge/Dashboard-FF6D00?style=for-the-badge&logo=vercel&logoColor=white" alt="Dashboard"/></a>&nbsp;
+ <!-- <a href="https://mohameek-stage.teleoceans-hostings.cloud/docs#/" target="_blank"><img src="https://img.shields.io/badge/Swagger_API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger API"/></a> -->
+</p>
+
+</details>
+
+---
 
 <!-- ──────────────── Savior ──────────────── -->
 
