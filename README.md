@@ -155,6 +155,38 @@
 
 ---
 
+<!-- ──────────────── Kuwait Real Estate ──────────────── -->
+
+<details open>
+<summary><h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/5a/10/305a103b-2b6a-b713-a9a7-11274c9c7853/Placeholder.mill/400x400bb-75.webp" width="28" style="border-radius: 6px;" /> Kuwait Real Estate &nbsp;<img src="https://img.shields.io/badge/🔥_+100K_Downloads-8B5CF6?style=flat-square&logoColor=white" alt="+100K Downloads" /></h3></summary>
+
+> 🏠 The only specialized real estate guide in Kuwait — **Q8AQAR.COM** 🇰🇼  
+> Hundreds of real estate ads added daily (sale, rent or exchange) by licensed offices and companies.
+>
+> **The Business Context: Kuwait's Fast-Paced Real Estate Market**  
+> The Kuwaiti real estate market is highly dynamic and deeply interconnected with rapid daily transactions. Unlike typical real estate platforms, "q8aqar" caters to a unique market where concepts like government housing "Exchange" (البدل), private residential sales, and investment rentals move at lightning speed. With hundreds of official real estate offices adding over 750 new listings daily, the platform serves as the premier, real-time pulse of Kuwait's property market.
+>
+> **The Challenge & My Role:**  
+> Despite the platform's massive popularity (+100K downloads), the legacy application struggled to keep up with the sheer volume of daily data (high-res images, real-time listings) and modern UI standards. My primary objective as a Senior Flutter Developer was to completely rebuild the application from the ground up. The goal was to transform it into a highly stable, blazingly fast, and visually modern platform capable of handling intense daily traffic and massive media rendering without compromising performance.
+>
+> **Technical Architecture & Key Achievements:**
+> - 🚀 **App Re-Architecture & Complete Rebuild** — Led the end-to-end refactoring and rebuild of the legacy codebase, implementing a scalable architecture to reduce technical debt, drastically minimize crash rates, and ensure long-term highest stability.
+> - ⚡ **High-Performance Data Handling** — Optimized the app's performance to smoothly handle the influx of 750+ new daily listings. Implemented advanced list rendering, pagination, and caching strategies to ensure rapid loading and browsing speeds, entirely eliminating UI freezing.
+> - 🖼️ **Advanced Media & Image Optimization** — Engineered a highly optimized image viewing system including efficient caching of high-resolution property images and seamless cross-platform sharing capabilities for brokers and buyers.
+> - 📱 **Modern, Adaptive UI/UX** — Developed a completely new, responsive user interface designed specifically to support the latest device aspect ratios and high-refresh-rate screens across iOS, Android, and Huawei devices.
+> - 🔔 **Real-Time Market Alerts** — Integrated robust push notification services (for new offers and "Badal" opportunities), ensuring investors and property seekers receive instantaneous updates in a highly competitive market.
+> - 🌐 **Cross-Store Deployment** — Successfully managed the deployment pipelines and customized builds to meet the strict guidelines of the Apple App Store, Google Play, and Huawei App Gallery.
+
+<p>
+  <a href="https://apps.apple.com/us/app/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/id6450605820" target="_blank"><img src="https://img.shields.io/badge/Apple_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple App Store"/></a>&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.q8aqar.com" target="_blank"><img src="https://img.shields.io/badge/Google_Play_Store-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play Store"/></a>&nbsp;
+  <a href="https://q8aqar.com/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+</p>
+
+</details>
+
+---
+
 <!-- ──────────────── Savior ──────────────── -->
 
 <details open>
@@ -266,28 +298,6 @@
 <p>
   <a href="https://apps.apple.com/sa/app/vit-fitness/id1645092433" target="_blank"><img src="https://img.shields.io/badge/Apple_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple App Store"/></a>&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.gymmawy.vit" target="_blank"><img src="https://img.shields.io/badge/Google_Play_Store-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play Store"/></a>
-</p>
-
-</details>
-
----
-
-<!-- ──────────────── Kuwait Real Estate ──────────────── -->
-
-<details open>
-<summary><h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/5a/10/305a103b-2b6a-b713-a9a7-11274c9c7853/Placeholder.mill/400x400bb-75.webp" width="28" style="border-radius: 6px;" /> Kuwait Real Estate</h3></summary>
-
-> The only specialized real estate guide in Kuwait — **Q8AQAR.COM**  
-> Hundreds of real estate ads added daily (sale, rent or exchange) by licensed offices and companies.
->
-> - 🔍 Free search — no commission, no registration
-> - 📲 Easy communication with advertisers (call or WhatsApp)
-> - 🏢 Directory of the best real estate offices in Kuwait
-
-<p>
-  <a href="https://apps.apple.com/us/app/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/id6450605820" target="_blank"><img src="https://img.shields.io/badge/Apple_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple App Store"/></a>&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.q8aqar.com" target="_blank"><img src="https://img.shields.io/badge/Google_Play_Store-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play Store"/></a>&nbsp;
-  <a href="https://q8aqar.com/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
 </details>
