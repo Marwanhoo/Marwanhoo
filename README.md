@@ -19,15 +19,18 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/marwanhoo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://github.com/Marwanhoo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-  <a href="https://wa.me/201028205960" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>&nbsp;
-  <a href="https://marwanhoo.bio.link/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
   <a href="https://fb.com/marwanhoo" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
-  <a href="https://twitter.com/devmarwan" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+ <!-- <a href="https://github.com/Marwanhoo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp; -->
+  <a href="https://wa.me/+201090039341" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>&nbsp;
+  <a href="https://marwanhoo.bio.link/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="https://twitter.com/devmarwan" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>&nbsp;
+<!-- <a href="https://www.instagram.com/marawanhoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp; -->
+<!--  <a href="https://marwanhoo.bio.link/" target="_blank"><img src="https://img.shields.io/badge/BIO-00C9B7?style=for-the-badge&logo=linktree&logoColor=white" alt="Bio Link"/></a> -->
+
 </p>
 
 <p align="center">
-  <a href="YOUR_GOOGLE_DRIVE_CV_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/📄_Download_CV-0EA5E9?style=for-the-badge&logoColor=white" alt="Download CV"/></a>
+  <a href="https://drive.google.com/file/d/1cdxIvbC15wdxWo_ya0Gy64YIjEPcaUxU/view" target="_blank"><img src="https://img.shields.io/badge/📄_Download_CV-0EA5E9?style=for-the-badge&logoColor=white" alt="Download CV"/></a>
 </p>
 
 <p align="center">
