@@ -212,27 +212,10 @@
 
 ---
 
-<!-- ──────────────── Washingo ──────────────── -->
-
-<details open>
-<summary><h3><img src="https://avatars.githubusercontent.com/u/125823028?v=4" width="28" style="border-radius: 6px;" /> Washingo</h3></summary>
-
-> The fastest and easiest way to order car care services at the place and time that suits you.  
-> Save time — no more going and waiting at car washes! 🚿
-
-<p>
-  <a href="https://apps.apple.com/us/app/washngo-%D9%88%D8%A7%D8%B4-%D8%A5%D9%86-%D9%82%D9%88/id6455939159" target="_blank"><img src="https://img.shields.io/badge/Apple_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple App Store"/></a>&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.art4muslim.washingo" target="_blank"><img src="https://img.shields.io/badge/Google_Play_Store-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play Store"/></a>
-</p>
-
-</details>
-
----
-
 <!-- ──────────────── Hasry ──────────────── -->
 
 <details open>
-<summary><h3><img src="https://avatars.githubusercontent.com/u/125823028?v=4" width="28" style="border-radius: 6px;" /> Hasry</h3></summary>
+<summary><h3><img src="https://play-lh.googleusercontent.com/Z1Lv2_v9lwFDMwePfT7nozq9V5cBNHgcAK16fzOj6jbAt5jmaQojfWkHHgqn-9nN6ttRKlLJx2o7qgqsq-yg=w480-h960-rw" width="28" style="border-radius: 6px;" /> Hasry</h3></summary>
 
 > Serving the educational sector in Riyadh, Saudi Arabia 🇸🇦  
 > Integrated solutions for managers, agents, teachers, and students — connecting everyone to provide and receive educational services easily and from anywhere.
@@ -249,7 +232,7 @@
 <!-- ──────────────── VIT Club ──────────────── -->
 
 <details open>
-<summary><h3><img src="https://avatars.githubusercontent.com/u/125823028?v=4" width="28" style="border-radius: 6px;" /> VIT Club — GYMMAWY</h3></summary>
+<summary><h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/85/2d/9c852d3c-61cf-00bc-c0c9-7fddeb969ace/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/400x400ia-75.webp" width="28" style="border-radius: 6px;" /> VIT Club — GYMMAWY</h3></summary>
 
 > A women's sports club meeting all your fitness needs under one roof — multiple devices, diverse classes, and an integrated staff of female trainers and administrators.
 
