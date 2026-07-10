@@ -254,6 +254,47 @@
 
 ---
 
+<!-- ──────────────── Asahl Tasira ──────────────── -->
+
+<details open>
+<summary><h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/3f/86/4d3f866f-a343-d14e-5ec8-d5be6a964bd8/Placeholder.mill/400x400bb-75.webp" width="28" style="border-radius: 6px;" /> Asahl Tasira — أسهل تسعيرة &nbsp;<img src="https://img.shields.io/badge/🔥_+50K_Downloads-8B5CF6?style=flat-square&logoColor=white" alt="+50K Downloads" /></h3></summary>
+
+> 🏗️ A Saudi marketplace app that connects people and companies who need construction and home services with vetted, certified suppliers, contractors, and technicians who then submit competitive price quotes 🇸🇦  
+> It connects individuals or companies seeking various services with certified suppliers capable of providing competitive quotes upon request. Think of it as a "reverse marketplace" or RFQ (request-for-quote) platform for the building and home-maintenance sector — instead of you calling around, the suppliers come to you with bids.
+>
+> **How it works:**  
+> The core flow is: the user sends a request with the details of the service needed, receives several quotes from certified suppliers inside the app, reviews them and picks the most suitable in terms of price and quality, then pays electronically through the app's secure system while tracking the order and communicating with the supplier until the service is complete. Quotes typically arrive in under 5 minutes after the request is sent, and you compare on price, ratings, and execution time before choosing.
+>
+> **Services covered:**  
+> The app aims to be an all-in-one hub. It covers construction and building, electrical work, plumbing, carpentry, glass and aluminum, kitchens and cabinets, and interior finishing, plus more specific categories like interlock/curbstones, ceramic and porcelain, ready-mix concrete, AC, cleaning, and painting.
+>
+> **Key Features:**
+> - 🔍 **Vetted supplier network** — suppliers go through screening that includes verifying commercial registration, reviewing experience and past projects, checking ratings and reputation, and ongoing performance monitoring.
+> - ⚡ **Multiple quotes fast** — with full pricing transparency (detailed quotes, no hidden fees).
+> - 💳 **Flexible, secure payments** — electronic or cash payment, wallet payment with recharge, and installment options.
+> - 📦 **Real-time order tracking** — in-app chat with suppliers, file/photo uploads, and a rating/review system after completion.
+> - 📞 **Customer support** — via phone, WhatsApp, and in-app.
+>
+> **Business model:**  
+> Registration and use are completely free for project owners — you only pay the supplier you choose after agreeing on a price. It's a two-sided marketplace: project owners on one side, suppliers/contractors/technicians on the other.
+>
+> **App facts & stats:**
+> - **Developer:** Majid Alqahtani, publishing under "art 4 muslim" (Art4Muslim), copyright © Art4muslim2025.
+> - **Category:** Business. **Price:** Free.
+> - **iOS:** 43.6 MB, requires iOS 15.6 or later; current version 2.2 (June 8, 2026). First released as version 1.0 on July 15, 2025, and it doesn't yet have enough ratings on the App Store.
+> - **Android:** 10K+ downloads, rated 4.2 stars from 26 reviews, last updated April 29, 2026, rated for 3+.
+> - **Privacy:** Both stores report the developer states no data collected and no data shared with third parties, with data encrypted in transit.
+
+<p>
+  <a href="https://apps.apple.com/us/app/%D8%A7%D8%B3%D9%87%D9%84-%D8%AA%D8%B3%D8%B9%D9%8A%D8%B1%D8%A9/id6748383709" target="_blank"><img src="https://img.shields.io/badge/Apple_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple App Store"/></a>&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.mhsneen.tasera" target="_blank"><img src="https://img.shields.io/badge/Google_Play_Store-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Google Play Store"/></a>&nbsp;
+  <a href="https://site.asahltasira.sa/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+</p>
+
+</details>
+
+---
+
 <!-- ──────────────── Matlobak ──────────────── -->
 
 <details open>
