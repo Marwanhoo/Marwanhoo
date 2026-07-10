@@ -277,13 +277,7 @@
 >
 > **Business model:**  
 > Registration and use are completely free for project owners — you only pay the supplier you choose after agreeing on a price. It's a two-sided marketplace: project owners on one side, suppliers/contractors/technicians on the other.
->
-> **App facts & stats:**
-> - **Developer:** Majid Alqahtani, publishing under "art 4 muslim" (Art4Muslim), copyright © Art4muslim2025.
-> - **Category:** Business. **Price:** Free.
-> - **iOS:** 43.6 MB, requires iOS 15.6 or later; current version 2.2 (June 8, 2026). First released as version 1.0 on July 15, 2025, and it doesn't yet have enough ratings on the App Store.
-> - **Android:** 10K+ downloads, rated 4.2 stars from 26 reviews, last updated April 29, 2026, rated for 3+.
-> - **Privacy:** Both stores report the developer states no data collected and no data shared with third parties, with data encrypted in transit.
+
 
 <p>
   <a href="https://apps.apple.com/us/app/%D8%A7%D8%B3%D9%87%D9%84-%D8%AA%D8%B3%D8%B9%D9%8A%D8%B1%D8%A9/id6748383709" target="_blank"><img src="https://img.shields.io/badge/Apple_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple App Store"/></a>&nbsp;
